@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="description_of_business">Description of business</string>
+    <string name="company_name">Khalil Soft</string>
+    <string name="company_description">We Provide Technical Solutions</string>
+    <string name="company_telephone">(002) 01142372297</string>
+    <string name="company_address">42 Ahmed Esmat St, Ain Shams Cairo</string>
+    <string name="company_email">info@khalilsoft.com</string>
+</resources>
